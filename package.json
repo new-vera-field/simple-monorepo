@@ -5,6 +5,7 @@
   "scripts": {
     "test": "yarn workspaces run test",
     "lint": "xo .",
+    "yarn": "yarn --version",
     "format": "xo . --fix"
   },
   "devDependencies": {
