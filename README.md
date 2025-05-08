@@ -1,4 +1,4 @@
-fvvdvf# Yarn Workspaces basic monorepo management without Lerna (for coding examples)
+sdcsdcfvvdvf# Yarn Workspaces basic monorepo management without Lerna (for coding examples)
 
 Yarn workspaces give reasonable primitives to work with non-package (library/module) code (eg. application monorepo, coding examples monorepo).
 
